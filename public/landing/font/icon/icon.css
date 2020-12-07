@@ -1,0 +1,372 @@
+.bg-able_download {
+    width: 70px; height: 71px;
+    background: url('css_sprites.png') -10px -407px;
+}
+.bg-able_manage {
+    width: 63px; height: 63px;
+      background: url('css_sprites.png') -420px -299px;
+}
+.bg-able_marketer {
+    width: 54px; height: 70px;
+     background: url('css_sprites.png') -190px -407px;
+}
+.bg-able_profits {
+    width: 100px; height: 75px;
+    background: url('css_sprites.png') -284px -154px;
+}
+.bg-able_vector {
+    width: 86px; height: 69px;
+    background: url('css_sprites.png') -146px -299px;
+}
+.bg-able_website {
+    width: 80px; height: 80px;
+    background: url('css_sprites.png') -153px -156px;
+}
+.bg-gallary {
+    width: 30px; height: 30px;
+    background: url('css_sprites.png') -414px -718px;
+}
+.bg-h_gallary {
+    width: 30px; height: 30px;
+    background: url('css_sprites.png') -464px -718px;
+}
+.bg-h_job {
+    width: 32px; height: 32px;
+    background: url('css_sprites.png') -692px -648px;
+}
+.bg-h_search {
+    width: 32px; height: 32px;
+    background: url('css_sprites.png') -10px -718px;
+}
+.bg-h_social {
+    width: 30px; height: 30px;
+    background: url('css_sprites.png') -364px -718px;
+}
+.bg-h_task {
+    width: 30px; height: 30px;
+    background: url('css_sprites.png') -114px -718px;
+}
+.bg-h_todo {
+    width: 30px; height: 30px;
+    background: url('css_sprites.png') -314px -718px;
+}
+.bg-job {
+    width: 32px; height: 32px;
+    background: url('css_sprites.png') -62px -718px;
+}
+.bg-search {
+    width: 32px; height: 32px;
+    background: url('css_sprites.png') -640px -648px;
+}
+.bg-social {
+    width: 30px; height: 30px;
+    background: url('css_sprites.png') -264px -718px;
+}
+.bg-task {
+    width: 30px; height: 30px;
+    background: url('css_sprites.png') -214px -718px;
+}
+.bg-todo {
+    width: 30px; height: 30px;
+    background: url('css_sprites.png') -164px -718px;
+}
+.bg-help_alert {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -700px -80px;
+}
+.bg-help_badge {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -700px -150px;
+}
+.bg-help_calendar {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -700px -570px;
+}
+.bg-help_chart {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -10px -648px;
+}
+.bg-help_download {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -80px -648px;
+}
+.bg-help_editer {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -150px -648px;
+}
+.bg-help_icon {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -220px -648px;
+}
+.bg-help_map {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -290px -648px;
+}
+.bg-help_modal {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -360px -648px;
+}
+.bg-help_more {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -430px -648px;
+}
+.bg-help_process {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -500px -648px;
+}
+.bg-help_rating {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -570px -648px;
+}
+.bg-help_search {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -252px -498px;
+}
+.bg-help_table {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -322px -498px;
+}
+.bg-help_tap {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -392px -498px;
+}
+.bg-help_tool {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -462px -498px;
+}
+.bg-help_upload {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -532px -498px;
+}
+.bg-review_member {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -630px -10px;
+}
+.bg-review_code {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -630px -80px;
+}
+.bg-review_customer {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -630px -150px;
+}
+.bg-key_chart {
+    width: 60px; height: 60px;
+    background: url('css_sprites.png') -10px -498px;
+}
+.bg-key_form {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -630px -360px;
+}
+.bg-key_landing {
+    width: 60px; height: 60px;
+    background: url('css_sprites.png') -550px -410px;
+}
+.bg-key_layout {
+    width: 60px; height: 60px;
+    background: url('css_sprites.png') -550px -330px;
+}
+.bg-key_speed {
+    width: 60px; height: 60px;
+    background: url('css_sprites.png') -550px -250px;
+}
+.bg-key_strategy {
+    width: 60px; height: 60px;
+    background: url('css_sprites.png') -550px -10px;
+}
+.bg-key_support {
+    width: 60px; height: 60px;
+    background: url('css_sprites.png') -90px -498px;
+}
+.bg-key_ui {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -630px -290px;
+}
+.bg-key_update {
+    width: 60px; height: 60px;
+    background: url('css_sprites.png') -264px -407px;
+}
+.bg-key_web {
+    width: 64px; height: 64px;
+    background: url('css_sprites.png') -252px -299px;
+}
+.bg-key_widget {
+    width: 60px; height: 60px;
+    background: url('css_sprites.png') -550px -90px;
+}
+.bg-bootstrap {
+    width: 116px; height: 96px;
+    background: url('css_sprites.png') -414px -10px;
+}
+.bg-angular {
+    width: 116px; height: 96px;
+    background: url('css_sprites.png') -414px -126px;
+}
+.bg-sass {
+    width: 116px; height: 88px;
+    background: url('css_sprites.png') -10px -299px;
+}
+.bg-star_5 {
+    width: 99px; height: 23px;
+    background: url('css_sprites.png') -284px -249px;
+}
+.bg-envato {
+    width: 116px; height: 34px;
+    background: url('css_sprites.png') -414px -242px;
+}
+.bg-double_tick {
+    width: 25px; height: 25px;
+    background: url('css_sprites.png') -503px -299px;
+}
+.bg-facebook {
+    width: 10px; height: 19px;
+    background: url('css_sprites.png') -253px -156px;
+}
+.bg-footer_mail {
+    width: 22px; height: 22px;
+    background: url('css_sprites.png') -153px -256px;
+}
+.bg-in {
+    width: 16px; height: 18px;
+    background: url('css_sprites.png') -233px -256px;
+}
+.bg-phone {
+    width: 18px; height: 23px;
+    background: url('css_sprites.png') -646px -718px;
+}
+.bg-play {
+    width: 70px; height: 71px;
+    background: url('css_sprites.png') -100px -407px;
+}
+.bg-quote {
+    width: 62px; height: 52px;
+    background: url('css_sprites.png') -170px -498px;
+}
+.bg-twitter {
+    width: 18px; height: 18px;
+    background: url('css_sprites.png') -195px -256px;
+}
+.bg-featured_rate {
+    width: 123px; height: 123px;
+    background: url('css_sprites.png') -10px -10px;
+}
+.bg-featured___Author {
+    width: 111px; height: 126px;
+    background: url('css_sprites.png') -153px -10px;
+}
+.bg-featured__Items {
+    width: 111px; height: 126px;
+    background: url('css_sprites.png') -10px -153px;
+}
+.bg-featured_Trend {
+    width: 110px; height: 124px;
+    background: url('css_sprites.png') -284px -10px;
+}
+.bg-add {
+    width: 24px; height: 24px;
+    background: url('css_sprites.png') -514px -718px;
+}
+.bg-copy {
+    width: 38px; height: 38px;
+    background: url('css_sprites.png') -640px -578px;
+}
+.bg-review_star {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -630px -220px;
+}
+.bg-key_browser {
+    width: 60px; height: 60px;
+    background: url('css_sprites.png') -344px -407px;
+}
+.bg-key_analytics {
+    width: 60px; height: 60px;
+    background: url('css_sprites.png') -424px -407px;
+}
+.bg-key_contract_ {
+    width: 64px; height: 64px;
+    background: url('css_sprites.png') -336px -299px;
+}
+.bg-key_project {
+    width: 60px; height: 60px;
+    background: url('css_sprites.png') -550px -170px;
+}
+.bg-key_marketing {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -700px -500px;
+}
+.bg-h_alert {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -700px -430px;
+}
+.bg-h_badge {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -700px -360px;
+}
+.bg-h_calendar {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -700px -290px;
+}
+.bg-h_chart {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -700px -220px;
+}
+.bg-h_download {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -700px -10px;
+}
+.bg-h_editor {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -570px -578px;
+}
+.bg-h_icon {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -500px -578px;
+}
+.bg-h_map {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -430px -578px;
+}
+.bg-h_modal {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -360px -578px;
+}
+.bg-h_progress {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -290px -578px;
+}
+.bg-h_search1 {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -220px -578px;
+}
+.bg-h_star {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -150px -578px;
+}
+.bg-h_tab {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -80px -578px;
+}
+.bg-h_table {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -10px -578px;
+}
+.bg-h_tool {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -630px -500px;
+}
+.bg-h_upload {
+    width: 50px; height: 50px;
+    background: url('css_sprites.png') -630px -430px;
+}
+.bg-call {
+    width: 24px; height: 24px;
+    background: url('css_sprites.png') -504px -407px;
+}
+.bg-mail_new {
+    width: 24px; height: 24px;
+    background: url('css_sprites.png') -558px -718px;
+}
+.bg-footer_web {
+    width: 24px; height: 24px;
+    background: url('css_sprites.png') -602px -718px;
+}
